@@ -1,0 +1,5 @@
+informacion para conectar a la bdd desde el dominio gratuito inifinityfree
+
+nombre: epiz_12345678_dbnam
+nombre de usuario: epiz_12345678
+host: sql123.epizy.com
